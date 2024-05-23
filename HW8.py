@@ -2,7 +2,7 @@ import modulHW8 as modul
 
 while True:
     print('='*25) 
-    print("SELAMAT DATANG DI PROGRAM STOCK")
+    print("SELAMAT DATANG DI PROGRAM MANAJEMEN STOK BARANG")
     print('='*25) 
     modul.menu()
     pilihan = int(input('Masukan Pilihan : '))
